@@ -1,0 +1,12 @@
+.env
+.env.*
+*.pem
+*.key
+*.sql
+*.sql.gz
+*.dump
+*.backup
+node_modules/
+dist/
+build/
+.DS_Store

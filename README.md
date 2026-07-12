@@ -1,16 +1,38 @@
-### Hi there 👋
+## 안녕하세요, 서한범입니다
 
-<!--
-**vumbumy/vumbumy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[English](./README.en.md)
 
-Here are some ideas to get you started:
+제품 지향 프론트엔드 엔지니어링, 개발자 경험, AI 보조 팀 워크플로우에
+집중하는 프론트엔드 챕터 리드입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+제가 관심을 두는 문제는 제품 품질, 팀 실행력, 일상적인 의사결정 속도를
+높이는 엔지니어링 시스템입니다.
+
+### 집중하는 문제
+
+- 비즈니스 핵심 워크플로우를 위한 제품 지향 프론트엔드 아키텍처
+- 표준, 리뷰, 공통 컴포넌트, 실행 규율을 중심으로 한 프론트엔드 챕터 리딩
+- 더 빠르고 명확한 전달을 위한 개발자 경험과 워크플로우 자동화
+- 코딩, 운영, 문서화, 의사결정 보조에 실용적으로 붙이는 AI-assisted development
+
+### Ops Lab
+
+개인 데이터, AI 작업, 지식 관리, 공개 퍼블리싱을 다루는 작은 셀프호스팅
+운영 환경을 직접 관리하고 있습니다.
+
+- **[Public Profile](https://vumy.kr/)**: 포트폴리오 진입점과 서비스 인덱스
+- **Immich**: 개인 사진과 영상 라이브러리
+- **Vodex**: LibreChat과 Codex 어댑터를 중심으로 만든 사설 AI 작업 환경
+- **Career AI**: 커리어 자료 정리와 지원 워크플로우 실험
+- **Obsidian / Quartz**: 개인 지식 베이스와 퍼블리싱 파이프라인
+
+중요한 것은 서비스 개수가 아니라 실제 시스템을 운영하는 습관입니다.
+배포, 라우팅, 모니터링, 데이터 보존, 문서화, 반복 개선을 직접 다룹니다.
+
+더 자세한 맥락: [Ops Lab](./ops-lab/README.md)
+
+### 기술적 배경
+
+실시간 시스템, 컴퓨터 그래픽스, 이미징에도 실무 경험이 있습니다. 다만
+그래픽스나 실시간성이 핵심인 역할이 아니라면, 이 영역은 보조 강점으로
+두고 제품과 팀의 성과를 키우는 엔지니어링 문제에 더 집중합니다.
