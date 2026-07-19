@@ -29,11 +29,20 @@ positioning.
 A private photo and video library used as a real personal media system, with
 ongoing attention to storage, backups, service health, and data continuity.
 
+Recently, the work has moved beyond simply running a photo server. I treat it
+as a long-term operations problem that includes primary-server migration,
+separating old and new storage roles, backup verification, and duplicate
+cleanup policy.
+
 ### Vodex
 
 A private AI work environment built around LibreChat and a Codex-compatible
 adapter, used to support server operations, writing, code review, and workflow
 automation.
+
+Vodex Console extends that work into a more direct operator console. It focuses
+on session persistence, cancellation, streaming state, and Telegram input
+routing for real server-operation workflows.
 
 ### Career AI
 
@@ -44,6 +53,20 @@ positioning, and job-search related context.
 
 A personal knowledge-management and publishing pipeline, connecting private
 notes with selectively published content.
+
+### Operations Toolkit
+
+I also maintain an operations toolbox, monitoring, and security-report
+automation. The goal is not to build a large observability stack, but to turn
+easy-to-miss personal-server signals such as disk pressure, service health,
+external exposure, and backup freshness into small repeatable checks.
+
+## Current Operating Questions
+
+- Storage separation, restore confidence, and duplicate-cleanup rules for keeping Immich useful as a long-term photo archive
+- Permission boundaries, session persistence, and cancellable workflows when AI agents operate on a server
+- The boundary between public-safe operating experience and private infrastructure details
+- How to keep small services organized around health checks and recovery procedures instead of just increasing the service count
 
 ## More Context
 
