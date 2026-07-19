@@ -5,8 +5,9 @@
 Frontend Chapter Lead focused on product-oriented frontend engineering,
 developer experience, and AI-assisted team workflows.
 
-I care about engineering systems that improve product quality, team execution,
-and the speed of everyday decision-making.
+I care about using AI beyond isolated tools: redesigning the personal and work
+systems I actually use around AI-assisted flows. My personal Ops Lab is where I
+try to build my own version of AX, or AI transformation.
 
 ### Focus
 
@@ -28,9 +29,9 @@ knowledge management, and public publishing.
 - **Career AI**: career material organization and application workflow experiments
 - **Obsidian / Quartz**: personal knowledge base and publishing pipeline
 
-The point is not the number of services. It is the habit of operating real
-systems: deployment, routing, monitoring, data preservation, documentation, and
-iterative improvement.
+The point is not the number of services. It is the process of turning systems I
+actually use into AI-assisted, operable workflows: deployment, routing,
+monitoring, data preservation, documentation, and iterative improvement.
 
 More context: [Ops Lab](./ops-lab/README.en.md)
 

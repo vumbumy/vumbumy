@@ -3,11 +3,11 @@
 [한국어](./services.md)
 
 This document summarizes the services I operate or research in my personal
-server workspace at a public-safe level. It focuses on product direction,
-engineering problems, and operational learning rather than private
-configuration.
+server workspace at a public-safe level. It focuses on my personal AX work, or
+AI transformation: turning systems I actually use into AI-centered, operable
+workflows, rather than publishing private configuration.
 
-## Current Research Direction
+## Current AX Direction
 
 The active work converges around three themes.
 
@@ -40,8 +40,8 @@ The active work converges around three themes.
 ## Portfolio Signal
 
 These services are not a list meant to show that many containers are running.
-The core signal is the process of turning repeated work into maintainable
-systems.
+The core signal is my personal AX process: turning repeated personal needs into
+maintainable systems with AI-assisted workflows.
 
 - Personal AI operations are treated as controlled workflows, not one-off prompts.
 - Knowledge and career materials are managed as structured context to improve the reliability and auditability of AI-assisted work.

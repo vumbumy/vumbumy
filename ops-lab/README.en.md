@@ -6,16 +6,16 @@ I operate a small personal production environment that connects product
 development, AI-assisted workflows, personal data management, and knowledge
 publishing.
 
-The goal is not to showcase a large infrastructure footprint. It is to keep a
-real system running, improve it over time, and use it as a practical workspace
-for product-oriented engineering and technical leadership.
+The goal is not to showcase a large infrastructure footprint. It is to build my
+own version of AX, or AI transformation: redesigning the personal and work
+systems I actually use around AI, automation, and operable feedback loops.
 
 ## Focus
 
-- Product-oriented Frontend Engineering
-- Frontend Chapter Leadership
+- Personal AX
+- AI-assisted Operations & Development
 - Developer Experience & Workflow Automation
-- AI-assisted Development
+- Knowledge, Career Context & Publishing
 
 ## Running Services
 
@@ -63,9 +63,9 @@ external exposure, and backup freshness into small repeatable checks.
 
 ## Current Operating Questions
 
-- Storage separation, restore confidence, and duplicate-cleanup rules for keeping Immich useful as a long-term photo archive
-- Permission boundaries, session persistence, and cancellable workflows when AI agents operate on a server
-- The boundary between public-safe operating experience and private infrastructure details
+- Turning personal workflows such as photo archiving, knowledge management, career decisions, and writing into AI-assisted systems
+- Permission boundaries, session persistence, and cancellable workflows when AI agents operate on real servers and data
+- The boundary between public-safe AX experiments and private infrastructure details
 - How to keep small services organized around health checks and recovery procedures instead of just increasing the service count
 
 ## More Context
