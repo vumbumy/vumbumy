@@ -48,7 +48,6 @@ notes with selectively published content.
 ## More Context
 
 - [Service Contexts](./services.en.md) / [한국어](./services.md)
-- [Public Changelog](./CHANGELOG.en.md) / [한국어](./CHANGELOG.md)
 
 ## Operating Responsibilities
 
