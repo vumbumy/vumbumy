@@ -1,42 +1,32 @@
-## Hi, I'm Seo Hanbeom
+## Hi, I'm Hanbeom Seo
 
 [한국어](./README.md)
 
-Frontend Chapter Lead focused on product-oriented frontend engineering,
-developer experience, and AI-assisted team workflows.
+I am the **AX Builder Lead** at Ajungnetworks.
+I help staff build and use AI tools at work. I also build and run business services.
 
-I care about using AI beyond isolated tools: redesigning the personal and work
-systems I actually use around AI-assisted flows. My personal Ops Lab is where I
-try to build my own version of AX, or AI transformation.
+### Current work
 
-### Focus
+- Understand business needs and help staff use the tools they build with AI
+- Build features, connect data and outside services, and deploy and run services
+- Work with other teams on data access, security, and operating costs
+- Write guides and build shared tools for repeated development and operations tasks
 
-- Product-oriented frontend architecture for business-critical workflows
-- Frontend chapter leadership through standards, reviews, shared components,
-  and execution discipline
-- Developer experience and workflow automation for faster, clearer delivery
-- AI-assisted development as a practical layer for coding, operations,
-  documentation, and decision support
+### Earlier experience
 
-### Ops Lab
+I built and ran customer, support, CRM, and internal business tools.
+As a frontend lead, I worked on shared packages, checks and releases,
+code reviews, and handoff to new leads. My earlier work as a Staff Engineer
+and Product Engineer supports my current role leading the AX Builder team.
 
-I run a small self-hosted production environment for personal data, AI work,
-knowledge management, and public publishing.
+I also worked on image and 3D tools, device control, test automation,
+and full-stack products.
 
-- **[Public Profile](https://vumy.kr/)**: portfolio entry point and service index
-- **Immich**: personal photo and video library
-- **Vodex**: private AI workspace built around LibreChat and a Codex adapter
-- **Career AI**: career material organization and application workflow experiments
-- **Obsidian / Quartz**: personal knowledge base and publishing pipeline
+### Writing and experiments
 
-The point is not the number of services. It is the process of turning systems I
-actually use into AI-assisted, operable workflows: deployment, routing,
-monitoring, data preservation, documentation, and iterative improvement.
+I use AI for development, documents, and repeated tasks.
+I build, run, and improve my own tools and share work experiences on my blog.
 
-More context: [Ops Lab](./ops-lab/README.en.md)
-
-### Technical Background
-
-I also have hands-on background in real-time systems, computer graphics, and
-imaging. I keep those as supporting strengths unless a role specifically needs
-graphics-heavy or realtime product work.
+- [Index — Profile and projects](https://vumy.kr/)
+- [Blog — Work and technical notes](https://blog.vumy.kr/)
+- [LinkedIn](https://www.linkedin.com/in/vumy/)
